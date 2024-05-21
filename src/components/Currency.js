@@ -9,7 +9,7 @@ const Currency = () => {
         });
     }
     return (
-        <select style={{ backgroundColor: "rgb(72, 249, 99)", padding: "10px 80px" }} className='alert tweak'
+        <select className='alert alert-success'
             onChange={handleChange}>
             <option className='Currency-option' value="&#36;">&#36; Dollar</option>
             <option className='Currency-option' value="&#163;">&#163; Pound</option>
