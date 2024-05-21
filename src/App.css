@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.Currency-option {
+    background-color:"rgb(72, 249, 99)";
+    font-size: 20px;
+    
+}
